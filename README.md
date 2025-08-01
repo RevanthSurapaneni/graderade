@@ -1,3 +1,5 @@
+# HAC is down for the summer, making it impossible to test the app and continue development untill school resumes
+
 # Frisco ISD Gradebook App
 
 This is an Android application, written in Kotlin, to interact with the Frisco ISD Home Access Center (HAC).
